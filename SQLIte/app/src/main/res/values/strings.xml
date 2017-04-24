@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLIte</string>
+    <string name="Welcome">¡Bienvenido a la libreria!</string>
+    <string name="loginUser">Usuario</string>
+    <string name="loginPass">Contraseña</string>
+    <string name="loginBtn">Ingresar</string>
+</resources>
