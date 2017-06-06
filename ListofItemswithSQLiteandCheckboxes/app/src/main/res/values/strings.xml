@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">List of Items with SQLite and Checkboxes</string>
+    <string name="Welcome">Bienvenido! \n Inicia sesion!</string>
+    <string name="UserHint">Usuario</string>
+    <string name="PassHint">Contraseña</string>
+    <string name="BtnEntrar">Ingresar</string>
+</resources>
